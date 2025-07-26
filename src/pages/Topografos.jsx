@@ -171,8 +171,8 @@ export default function Topografos() {
       <Navbar user={user} />
       <main style={styles.main}>
         <header style={styles.header}>
-          <h1>Topógrafos</h1>
-          <p>Listado de los trabajadores registrados</p>
+          <h1 style={styles.title}>👷‍♂️ Topógrafos Registrados</h1>
+          <p style={styles.subtitle}>Listado de los trabajadores registrados.</p>
         </header>
 
         <section style={styles.tableSection}>
@@ -276,13 +276,30 @@ export default function Topografos() {
 
 const styles = {
   container: {
-    display: 'grid', gridTemplateRows: 'auto 1fr', height: '100vh', width: '100vw', backgroundColor: '#f3f4f6', overflow: 'hidden'
+    display: 'grid',
+    gridTemplateRows: 'auto 1fr',
+    height: '100vh',
+    width: '100vw',
+    backgroundColor: '#f0f4f8',
+    overflow: 'hidden'
   },
   main: {
-    padding: '2rem', overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: '2rem'
+    padding: '2rem',
+    overflowY: 'auto',
+    display: 'flex',
+    flexDirection: 'column',
+    gap: '2rem'
   },
   header: {
+    textAlign: 'center'
+  },
+  title: {
+    fontSize: '2rem',
     marginBottom: '0.5rem'
+  },
+  subtitle: {
+    fontSize: '1rem',
+    color: '#64748b'
   },
   tableSection: {
     backgroundColor: '#fff', padding: '1.5rem', borderRadius: '8px', flexGrow: 1, display: 'flex', flexDirection: 'column'
