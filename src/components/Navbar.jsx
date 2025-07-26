@@ -15,7 +15,6 @@ export default function Navbar({ user }) {
       <h1 style={styles.logo}>📐 GeoAdmin</h1>
       <ul style={styles.menu}>
         <li style={styles.link} onClick={() => navigate('/dashboard')}>Inicio</li>
-        <li style={styles.link} onClick={() => navigate('/usuarios')}>Usuarios</li>
         <li style={styles.link} onClick={() => navigate('/topografos')}>Topógrafos</li>
         <li style={styles.link} onClick={() => navigate('/terrenos')}>Terrenos</li>
         <li style={styles.link} onClick={() => navigate('/mapa')}>Mapa en tiempo real</li>
