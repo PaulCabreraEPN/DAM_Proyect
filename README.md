@@ -7,6 +7,16 @@ Este proyecto muestra un mapa interactivo que visualiza en tiempo real la ubicac
 🔗 [https://locations-sooty-nine.vercel.app](https://locations-sooty-nine.vercel.app)
 
 ---
+## Evidencias 
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/898462da-34ca-4963-bb38-58c0198696ed" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/35e6de3c-a278-4446-ac78-4b786d9b2559" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/d9b5cdb2-64e8-4f22-b100-12c9eb604f3d" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/27629f95-1e0c-460e-9868-9d2013cdb9a8" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/27006050-407d-4871-a3fe-4db845b5e73d" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/8a6b1586-e3fd-4e36-b6f7-c54ca6c8a32f" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/a0f50223-a66e-4a5f-9b22-7f23ba5ba068" />
+
+---
 
 ## 🧑‍💻 Integrantes del equipo
 
